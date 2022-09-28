@@ -1,17 +1,50 @@
-function tocaSomPom() {
-    document.querySelector('#som_tecla_pom').play();
-}
+//------------- FOR ---------------------
 
-// const tocaSom = document.querySelectorAll('audio');
-// listaDeTeclas 
-
-// function tocaSom() {
-
-// }
+function tocaSom(idElementoAudio) {
+    document.querySelector(idElementoAudio).play();
+} 
 
 const listaDeTeclas = document.querySelectorAll('.tecla');
 
-listaDeTeclas[0].onclick = tocaSomPom;
+for (let contador = 0; contador < listaDeTeclas.length; contador++) {
+    const tecla = listaDeTeclas[contador]
+    const instrumento =  tecla.classList[1];
+    const idAudio = `#som_${instrumento}`; //Template String
+
+    tecla.onclick = function () {
+        tocaSom(idAudio);
+    }
+}
+
+
+//------------- WHILE ---------------------
+
+/*function tocaSom(idElementoAudio) {
+    document.querySelector(idElementoAudio).play();
+} 
+
+const listaDeTeclas = document.querySelectorAll('.tecla');
+
+let contador = 0
+
+
+while (contador < listaDeTeclas.length) {
+
+    const tecla = listaDeTeclas[contador]
+    const instrumento =  tecla.classList[1];
+    console.log(instrumento);
+
+    //Template Strint
+    const idAudio = `#som_${instrumento}`;
+    console.log(idAudio);
+
+    tecla.onclick = function () {
+        tocaSom(idAudio);
+    }
+
+    contador = contador + 1;
+    console.log(contador);
+}*/
 
 
 // Seleção dos botões do forma INDIVIDUAL:

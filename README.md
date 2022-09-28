@@ -3,6 +3,7 @@
 
 ### Aula 01: Conhecendo o JavaScript 
 
+
 ##### O que aprendi:
 
 **CLICANDO NO BOTÃO:**
@@ -21,6 +22,7 @@
 - A referência **document**, representa o documento HTML dentro do JavaScript;
 - JavaScript é uma linguagem _case sensitive_.
 
+
 ### Aula 02: Funções
 
 ##### O que aprendi:
@@ -38,6 +40,7 @@
 - Utilizar o **onclick** como atributo no JS;
 - Atribuir uma função ao **onclick**, mas que nao seja acionada imediatamente. 
 
+
 ### Aula 03: Lista
 
 ##### O que aprendi:
@@ -50,6 +53,28 @@
 
 **CONHECENDO LISTAS:**
 - A estrutura de uma lista em KS e como acessar os elementos a partir dos índices com a sintaxe de colchetes.
+
+
+### Aula 04: Iterando em Listas
+
+##### O que aprendi:
+
+**PERCORRENDO LISTAS:**
+- Utilização da estrutura de repetição _while_ para percorrer uma lista; 
+- Criação de referências variáveis com _let_;
+- Conhecimento do atributo _length_ contido nas listas, para obter um valor dinâmico.
+
+***FUNÇÃO COM PARÂMETROS:**
+- Declaração e utlização de _parâmetros_ dentro de um função;
+- O que é uma função anônima.
+
+**TEXTOS DINÂMICOS:**
+- Como criar textos dinâmicos utilizando _Template String_;
+- Como acessar as classes de um elemento através do atributo _classList_.
+
+**REPETIÇÃO OTIMIZADA COM FOR:**
+- Como é a estrutura de repetição _for_ e como ela pode ajudar com um código mais limpo;
+- Incrementar um valor de variável com o operador _++_;
 
 
 
