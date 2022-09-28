@@ -1,4 +1,4 @@
-# JavaScript para Web: Crie Páginas Dinânmicas
+# JavaScript para Web: Crie Páginas Dinâmicas
 
 
 ### Aula 01: Conhecendo o JavaScript 
@@ -37,5 +37,19 @@
 **CLIQUE NO BOTÃO:**
 - Utilizar o **onclick** como atributo no JS;
 - Atribuir uma função ao **onclick**, mas que nao seja acionada imediatamente. 
+
+### Aula 03: Lista
+
+##### O que aprendi:
+
+**LISTA DE ELEMENTOS:**
+- Para buscar muitos elementos é utilizado o _querySelectorAll_, que retorna uma lista (NodeList) com todos os elementos do seletor informado.
+
+**REFERÊNCIAS:** 
+- Para que serve uma referência e como declarar um valor **constante** no código.
+
+**CONHECENDO LISTAS:**
+- A estrutura de uma lista em KS e como acessar os elementos a partir dos índices com a sintaxe de colchetes.
+
 
 
