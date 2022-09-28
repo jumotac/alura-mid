@@ -77,4 +77,17 @@
 - Incrementar um valor de variável com o operador _++_;
 
 
+### Aula 05: Eventos e Lógicas
+
+##### O que aprendi:
+
+**EVENTOS NO TECLADO:**
+- O que são eventos do teclado e como usa-los: _onkeydown_ e _onkeyup_;
+- Como adicionar e remover classes em um elemento HTML através do JS, com as funções _add_ e _remove_ do _classList_.
+
+**CÓDIÇÕES NO CÓDIGO E OPERADORES LÓGICOS:**
+- O que é o objeto _event_, como declarar e acessar através do parâmetro de uma função atrelada a um evento.
+- Estrutura condicional com _if_  e _else_ e para que serve;
+- Operadores: *==* igualdade, *===* estritamente igual, *||* operador OR, *!=* not equals, *&&* AND e o valor *null*.
+
 
