@@ -102,3 +102,22 @@
 - Operadores: *==* igualdade, *===* estritamente igual, *||* operador OR, *!=* not equals, *&&* AND e o valor *null*.
 
 
+### :wrench:Ferramentas:
+
+Ferramentas utilizadas para auxiliar na execução do projeto:
+
+- **Visual Studio Code** - editor de código
+
+- **Github** - Para estruturar o portfólio 
+
+  
+
+### :heart:Agradecimentos:  
+
+- Instrutora: 
+  - [Vanessa Me Tonini](https://www.linkedin.com/in/vanessametonini/);
+  - [Alura](www.alura.com.br)   
+
+
+<p align="center">Desenvolvido 💗 por <a href="https://github.com/jumotac">Ju Mota</a></p>
+
