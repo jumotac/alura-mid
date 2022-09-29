@@ -1,14 +1,17 @@
 :root {
   --cinza: #aaa;
-  --vermelha: #e93d50;
+  --vermelha: #e93d99;
   --vermelha-escura: #af303f;
   --branca: #fff;
-  --luz: rgb(229, 255, 0);
+  --luz: rgb(0, 255, 247);
 }
 
 body {
   align-items: center;
-  background: linear-gradient(45deg, #a7cfdf 0%,#23538a 100%);
+  background-image: 
+  url('/images/music-6.jpg');
+  background-repeat: no-repeat;
+  background-position: center top -20em;
   display: flex;
   justify-content: center;
   flex-direction: column;
