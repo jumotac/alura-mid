@@ -1,5 +1,12 @@
+| :placard: Vitrine.Dev |     |
+| ------------- | --- |
+| :sparkles: Nome | **Alura Mid** 
+| :label: Tecnologias | JAVASCRIPT, HTML, CSS 
+| :rocket: URL | https://jumotac.github.io/alura-mid/
+| :fire: Desafio | Crie Páginas Dinâmicas com JavaScript
 
-
+<!-- Inserir imagem com a #vitrinedev ao final do link -->
+![](https://raw.githubusercontent.com/jumotac/alura-mid/master/images/alura-mid.png#vitrinedev)
 
 
 # JavaScript para Web: Crie Páginas Dinâmicas
